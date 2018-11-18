@@ -5,7 +5,6 @@ import Thumbnail from "./components/Thumbnail"
 import { Container } from "./components/Grid";
 import image from "./components/Images";
 import shuffle from "./components/Helpers/shuffle";
-// import checkArray from "./components/Helpers/checkArray"
 import './App.css';
 
 class App extends Component {
